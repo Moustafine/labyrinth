@@ -1,0 +1,6 @@
+# Temporary files
+*~
+*.autosave
+
+# Qt Creator generated files
+*.pro.user*
